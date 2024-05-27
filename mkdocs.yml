@@ -1,5 +1,5 @@
 # Project information
-site_name: BNBChain Knowledge Base
+site_name: Documentation
 site_url: https://docs.bnbchain.org
 site_author: BNB Chain
 site_description: >-
@@ -18,18 +18,19 @@ theme:
   language: en
   icon:
     repo: fontawesome/brands/github
+    share: octicons/share-android-24
   palette:
     - scheme: default
       primary: custom
       accent: custom
       toggle:
-        icon: material/weather-night
+        icon: octicons/moon-24
         name: Switch to dark mode
     - scheme: slate
       primary: custom
       accent: custom
       toggle:
-        icon: material/weather-sunny
+        icon: octicons/sun-24
         name: Switch to light mode
   features:
 #    - announce.dismiss
