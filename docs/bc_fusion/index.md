@@ -15,7 +15,7 @@ hide:
         <p>The BNB Chain Fusion is a strategic shift to migrate the BNB Beacon Chain’s functionalities to BNB Smart Chain (BSC) and retire BNB Beacon Chain. This move aims to streamline the network, improve efficiency, reduce security risks, and align BNB Chain's architecture with the current technological demands and future growth.</p>
     </div>
     <div class="image">
-        <img src="../bnb_smart_chain/img/bnb_smart_chain.png" alt="BNB Chain Fusion" loading="lazy">
+        <img src="../assets/bcfusion/bcfusion.png" alt="BNB Chain Fusion" loading="lazy">
     </div>
 </div>
 
